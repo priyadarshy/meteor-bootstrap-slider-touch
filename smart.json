@@ -1,10 +1,10 @@
 {
-    "name": "bootstrap-slider-touch",
-    "description": "bootstrap-slider-touch packaged for meteor",
-    "homepage": "https://github.com/Dsyko/meteor-bootstrap-slider-touch",
-    "author": "David Sykora",
+    "name": "bootstrap3-slider-touch",
+    "description": "bootstrap3-slider-touch packaged for meteor",
+    "homepage": "https://github.com/jcchin/meteor-bootstrap-slider-touch/",
+    "author": "Jeff Chin",
     "version": "2.0.1",
-    "git": "https://github.com/Dsyko/meteor-bootstrap-slider-touch.git",
+    "git": "https://github.com/jcchin/meteor-bootstrap-slider-touch/",
     "packages": {
     }
 }
