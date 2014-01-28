@@ -1,7 +1,7 @@
 meteor-bootstrap-slider-touch
 =============================
 
-bootstrap-slider-touch in a meteor package
+bootstrap-slider-touch in a meteor package (for bootstrap 3)
 
 Bootstrap Slider Touch
 ======================
