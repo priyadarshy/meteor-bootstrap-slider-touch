@@ -1,7 +1,8 @@
-meteor-bootstrap-slider-touch
+bootstrap3-slider-touch
 =============================
 
-bootstrap-slider-touch in a meteor package (for bootstrap 3)
+bootstrap3-slider-touch in a meteor package (for bootstrap 3)
+A slider (or range slider) component.
 
 Bootstrap Slider Touch
 ======================
