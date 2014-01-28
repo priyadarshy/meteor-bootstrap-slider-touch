@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-	api.use('bootstrap', 'client');
+	api.use('bootstrap-3', 'client');
 	api.use('jquery', 'client');
     api.add_files([
     	'modernizr.js',
