@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "bootstrap-slider-touch packaged for meteor."
+    summary: "bootstrap3-slider-touch packaged for meteor."
 });
 
 Package.on_use(function (api) {

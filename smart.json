@@ -3,7 +3,7 @@
     "description": "bootstrap3-slider-touch packaged for meteor",
     "homepage": "https://github.com/jcchin/meteor-bootstrap-slider-touch/",
     "author": "Jeff Chin",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "git": "https://github.com/jcchin/meteor-bootstrap-slider-touch/",
     "packages": {
     }
